@@ -39,8 +39,4 @@ By default the backend listens on port 4000 and the frontend Vite server on 5173
 - GET /api/subjects — list of subjects
 - GET /api/timetables?subjectId=<id> — timetable entries for a subject
 
-## Notes & Next steps
 
-- Add create/update/delete API endpoints.
-- Add authentication and user preferences.
-- Improve timetable UI (calendar grid, export to PDF, drag/drop).
